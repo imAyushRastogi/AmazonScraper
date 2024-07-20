@@ -13,7 +13,7 @@ This project is a web scraping script that extracts the top 50 best seller books
 
 ## How to Run
 1. Clone the repository and navigate to the project directory.
-2. Run the script using `scraper.py`.
+2. Run the script using `scrape.py`.
 3. The script will scrape the data and store it in `books.csv` and `books.json` files.
 
 ## Output
